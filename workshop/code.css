@@ -1,0 +1,15 @@
+.spooky {
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+}
+.creepster-regular {
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  body {
+    background-color: black;
+  }
